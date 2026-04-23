@@ -24,6 +24,10 @@ void bai_1() {
 // Bài 2: Tính tổng hai số
 // TODO: Viết hàm cộng hai số a và b
 int bai_2(int a, int b) {
+    cin >> a; 
+    cin >> b;
+    
+    cout << "tong cua a va b la: " << a + b << endl;
     
 }
 
