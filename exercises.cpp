@@ -88,7 +88,12 @@ bool bai_9(int n) {
 // ***
 // ****
 void bai_10(int n) {
-    // TODO: Implement
+    for (int i = 1; i <= n; i++) {
+        for (int j = 1; j <= i; j++) {
+            cout << "*";
+        }
+        cout << endl;
+    }
 }
 
 // ========== PHẦN 3: CHUỖI (STRING) ==========
