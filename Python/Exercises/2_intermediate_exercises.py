@@ -19,6 +19,7 @@ Yêu cầu: Đọc một đoạn text, thống kê:
 # Viết code ở đây
 
 
+
 """
 BÀI 1.2: Merge dictionaries
 Yêu cầu: Kết hợp 2 dictionary, xử lý key trùng
